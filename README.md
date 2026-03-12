@@ -6,6 +6,20 @@
   </a>
 </p>
 
+
+ ## 🎓 About Me
+<p align="center">
+Olá! 👋  
+Sou estudante do curso Técnico em Análise e Desenvolvimento de Sistemas no SENAI CIMATEC.  
+Atualmente, estou aprendendo C++ e desenvolvendo minhas habilidades em programação e lógica computacional.  
+<p align="center">
+🎯 Objetivos de Carreira 
+<p align="center">
+- Me tornar um Desenvolvedor Back-End  
+<p align="center">
+- Evoluir para a área de DevOps 
+</p>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/cauevieiraLopes">
