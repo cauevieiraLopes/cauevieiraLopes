@@ -24,7 +24,6 @@ Atualmente, estou aprendendo C++ e desenvolvendo minhas habilidades em programaÃ
 <p align="center">
   <a href="https://github.com/cauevieiraLopes">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="cauevieiraLopes's GitHub Stats" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cauevieiraLopes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   </a>
 </p>
 <p align="center">
