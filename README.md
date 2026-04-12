@@ -31,8 +31,9 @@ Atualmente focado em construir uma base sólida com **C++** para me tornar um de
 <p align="center">
    <a href="https://github.com/cauevieiraLopes">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="cauevieiraLopes's GitHub Stats" />
+        <img src="https://streak-stats.demolab.com/?user=cauevieiraLopes&theme=dark&hide_border=true&cache_seconds=86400" alt="cauevieiraLopes's GitHub Streak" width="49%" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=cauevieiraLopes&theme=dark&hide_border=true&cache_seconds=86400" alt="cauevieiraLopes's GitHub Streak" width="49%" />
+
 </p>
 
 ---
