@@ -1,50 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,200:f8f9fa&text=Cau%C3%AA%20Vieira%20Lopes&fontSize=60&fontColor=f8f9fa&animation=fadeIn&fontAlignY=40" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=cauevieiraLopes">
-   
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,200:f8f9fa&text=Cau%C3%AA%20Lopes&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Systems+Analysis+Student;C%2B%2B+Learner;Future+Python+Dev" alt="Typing SVG" />
 
- ## 🎓 About Me
-<p align="center">
-Olá! 👋  
-Sou estudante do curso Técnico em Análise e Desenvolvimento de Sistemas no SENAI CIMATEC.  
-Atualmente, estou aprendendo C++ e desenvolvendo minhas habilidades em programação e lógica computacional.  
-<p align="center">
-🎯 Objetivos de Carreira 
-<p align="center">
-- Me tornar um Desenvolvedor Back-End  
-<p align="center">
-- Evoluir para a área de DevOps 
-</p>
+---
 
-## 📊 GitHub Stats & Trophies
+### About Me
+Estudante de **Análise e Desenvolvimento de Sistemas** no **Senai Cimatec**. 
+Atualmente focado em construir uma base sólida com **C++** para me tornar um desenvolvedor **Python** de alta performance.
+
+🔭 **Current focus:** Academic projects & Logic challenges
+
+📚 **Learning:** Data Structures & OOP with C++
+
+⚡ **Mindset:** Clean code, efficiency, and minimalism
+
+---
+
+###  Tech Stack
+
+**Languages & Tools**
+<br>
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" alt="C++" />
+<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white&color=black" alt="Git" />
+
+---
+
+###  GitHub Stats
 <p align="center">
-  <a href="https://github.com/cauevieiraLopes">
+   <a href="https://github.com/cauevieiraLopes">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="cauevieiraLopes's GitHub Stats" />
   </a>
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=cauevieiraLopes&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Cauê Vieira Lopes's GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=cauevieiraLopes&theme=dark&hide_border=true&cache_seconds=86400" alt="cauevieiraLopes's GitHub Streak" width="49%" />
 </p>
 
+---
 
-## 🛠️ Languages & Tools
+###  Contact & Socials
+<br>
+<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:caue.vieira.lopes@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+<br>
+<br>
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+*"Talk is cheap. Show me the code."*
+<br>
+— **Linus Torvalds**
 
-## 🔗 Connect with Me
-<p align="left"> <a href="mailto:caue.vieira.lopes@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=212529" alt="Cauê Vieira Lopes's Email"/></a></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
+</div>
