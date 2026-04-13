@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,200:f8f9fa&text=Cau%C3%AA%20Lopes&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Systems+Analysis+Student;C%2B%2B+Learner;Future+Python+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DCDCDC&center=true&vCenter=true&width=435&lines=Systems+Analysis+Student;C%2B%2B+Learner;Future+Python+Dev" alt="Typing SVG" />
 
 ---
 
