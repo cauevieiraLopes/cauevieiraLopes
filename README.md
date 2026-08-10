@@ -25,7 +25,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI CIMATEC, atualm
 | Projeto | Descrição | Tecs |
 | :--- | :--- | :--- |
 | 🏫 **[Gerenciamento Escolar](https://github.com/cauevieiraLopes/sistema-gerenciamento-escolar)** | Sistema completo para gestão de alunos, notas e dados, com lógica estruturada. | `C++`, `POO` |
-| 📚 **[Portfólio Completo](https://github.com/cauevieiraLopes/Academic-Portfolio-Ads)** | Exercícios e estudos de lógica organizados por linguagem: C++, Java, Python e CS50. | `Java`, `C++`, `Python` |
+| 📚 **[Portfólio Completo](https://github.com/cauevieiraLopes/code-exercises)** | Exercícios e estudos de lógica organizados por linguagem e nível de complexidade. | `Java`, `C++`, `Python` |
 
 ---
 
