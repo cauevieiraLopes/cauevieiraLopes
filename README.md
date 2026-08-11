@@ -31,11 +31,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI CIMATEC, atualm
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/cauevieiraLopes">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="cauevieiraLopes's GitHub Stats" />
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauevieiraLopes&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-</a>
-
+<p align="center">
+   <a href="https://github.com/cauevieiraLopes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="cauevieiraLopes's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauevieiraLopes&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+   </a>
+</p>
 ---
 
 ### 📫 Conecte-se Comigo
