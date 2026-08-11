@@ -37,6 +37,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no SENAI CIMATEC, atualm
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauevieiraLopes&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
    </a>
 </p>
+
 ---
 
 ### 📫 Conecte-se Comigo
