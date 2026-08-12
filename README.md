@@ -36,8 +36,12 @@ Meu objetivo é atuar como desenvolvedor back-end, evoluindo para o ecossistema 
 ### 📊 GitHub Stats
 
 <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="cauevieiraLopes's GitHub Stats" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauevieiraLopes&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/cauevieiraLopes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cauevieiraLopes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="cauevieiraLopes's GitHub Stats" />
+  </a>
+   <a href="https://github.com/cauevieiraLopes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cauevieiraLopes&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 ---
