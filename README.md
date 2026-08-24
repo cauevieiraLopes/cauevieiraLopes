@@ -28,7 +28,7 @@ Meu objetivo é atuar como desenvolvedor back-end, evoluindo para o ecossistema 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | 🏫 **[Sistema de Gerenciamento Escolar](https://github.com/cauevieiraLopes/sistema-gerenciamento-escolar)** | Sistema completo para gestão de alunos, notas e dados, com estruturas de dados e ponteiros aplicados na prática. | `C++`, `POO` |
-| 🛒 **[Sistema de Gestão de Mercado](https://github.com/cauevieiraLopes/code-exercises/tree/main/Java)** | Aplicação de terminal com perfis de Cliente e Funcionário, controle de estoque dinâmico com `HashMap`, precisão financeira via `BigDecimal` e tratamento de exceções desacoplado. | `Java 17`, `POO`, `HashMap`, `BigDecimal` |
+| 🛒 **[Sistema de Gestão de Mercado](https://github.com/cauevieiraLopes/code-exercises/tree/main/java/avancado/gerenciador-de-compras)** | Aplicação de terminal com perfis de Cliente e Funcionário, controle de estoque dinâmico com `HashMap`, precisão financeira via `BigDecimal` e tratamento de exceções desacoplado. | `Java 17`, `POO`, `HashMap`, `BigDecimal` |
 
 > 📚 Exercícios de fundamentos e estudos por linguagem (progressão contínua) estão organizados no repositório **[code-exercises](https://github.com/cauevieiraLopes/code-exercises)**.
 
